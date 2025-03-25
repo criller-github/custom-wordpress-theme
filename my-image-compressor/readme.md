@@ -6,7 +6,7 @@ Optimere webshoppenes performance ved at reducere billedernes indlæsningstid ba
 ## Overview
 Billedkomprimering implementeres på to forskellige måder:
 - **Twenty Twenty-Four Theme:**  
-  Her anvendes Smush til automatisk billedoptimering. *(Bemærk: Denne metode er endnu ikke implementeret.)*
+  Her anvendes plugin'et Smush til automatisk billedoptimering.
 - **Custom Theme:**  
   Her har jeg udviklet en server-side løsning i form af et WordPress-plugin, der komprimerer billeder ved upload.
 
